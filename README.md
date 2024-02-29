@@ -40,13 +40,13 @@ To view the website, simply open the **index.html** file in a vs code.You must i
 
 **Acknowledgement**
 <br>
-**1**.The layout and design of this project are inspired by the official Razorpay website.
-**2**.Tailwind CSS documentation and community for providing excellent resources and support for building modern web interfaces.
+**1**.The layout and design of this project are inspired by the official Razorpay website.<br>
+**2**.Tailwind CSS documentation and community for providing excellent resources and support for building modern web interfaces.<br>
 ##
 <br>
 
 **OUTPUT PAGE**
-##
+
 
 https://github.com/GXNDHI/RAZORPAY-FRONTEND-CLONE/assets/92109865/fc2ef55f-031a-4be1-b07f-13ebbfccecc6
 
